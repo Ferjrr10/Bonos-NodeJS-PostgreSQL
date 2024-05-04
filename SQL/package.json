@@ -1,0 +1,21 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ConnectDB.js",
+  "scripts": {
+    "dev": "nodemon ConnectDB.js",
+    "start": "node ConnectDB.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
