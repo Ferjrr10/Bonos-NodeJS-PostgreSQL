@@ -1,3 +1,5 @@
+#highcharts #bonds #tradingview #indicators
+
 ![image](https://github.com/Ferjrr10/Bonos-NodeJS-PostgreSQL/assets/110579234/d9452bee-94db-473e-b441-a3f6416b4eba)
 
 
